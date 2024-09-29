@@ -1,3 +1,4 @@
-[submodule "FtcRobotController"]
-	path = FtcRobotController
-	url = https://github.com/FIRST-Tech-Challenge/FtcRobotController
+
+[submodule "East2024_FtcRobotController"]
+	path = East2024_FtcRobotController
+	url = https://github.com/cteggatz/East2024_FtcRobotController.git
